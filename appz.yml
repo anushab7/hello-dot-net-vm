@@ -1,7 +1,7 @@
 app:
     name: iis
     code: iis
-    notify: appz-delivery@ecloudcontrol.com
+    notify: aborra@ecloudcontrol.com
 
 build:
     version: 2.9
